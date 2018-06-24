@@ -35,7 +35,7 @@ docker run -it -p 5007:5007 mdruzkowski/products-feed-reader
 ### read
 
 ```bash
-curl -XPOST -H "Content-Type: application/json"  -d '{"url":"link_to_product_feed"}'  http://localhost:5005/read
+curl -XPOST -H "Content-Type: application/json"  -d '{"url":"link_to_product_feed"}'  http://localhost:5007/read
 ```
 
 POST params:
