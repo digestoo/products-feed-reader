@@ -1,0 +1,6 @@
+twisted
+klein
+treq
+PyOpenSSL
+service_identity
+xmltodict
